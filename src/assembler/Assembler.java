@@ -2,10 +2,6 @@ package assembler;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
-
-import org.omg.CORBA.Current;
-
 import assembler.Parser.commandType;
 
 public class Assembler {
@@ -83,6 +79,14 @@ public class Assembler {
 		
 		
 		//Need to get 15 bit representation of address value
+		
+		//Enum is working
+		//Parser works for address, compute, dest, jump
+		//next up:
+		//Create SystemTable Class
+		
+		
+		
 	}
 
 }
