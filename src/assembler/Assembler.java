@@ -85,7 +85,10 @@ public class Assembler {
 		//next up:
 		//Create SystemTable Class
 		
-		
+		// SystemTable class created and ready to use. 
+		// next up: create a SystemTable object in main and add logic to read 
+		// and update system table
+		// final thought - integer value is already handled with Integer.toBinaryString()
 		
 	}
 
